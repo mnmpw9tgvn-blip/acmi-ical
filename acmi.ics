@@ -1,0 +1,576 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ACMI Films//acmi-ical//EN
+X-WR-CALNAME:ACMI Films
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+SUMMARY:Dreams
+DTSTART:20260213T133000
+DTEND:20260213T153000
+UID:203ad216d811de2ac1e8db1aa64b02d39237a788@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/matinees/dreams/\n\nTickets: 
+ https://tickets.acmi.net.au/0/60528
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/matinees/dreams/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infernal Affairs
+DTSTART:20260213T183000
+DTEND:20260213T203000
+UID:6be54534df445f9dd2f29ed32f980e0f0386e22a@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ infernal-affairs/\n\nTickets: https://tickets.acmi.net.au/0/60544
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/infernal
+ -affairs/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dreams
+DTSTART:20260214T110000
+DTEND:20260214T130000
+UID:0f7f77e4f2762b0d9f82c4e98d4a973e79234865@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/matinees/dreams/\n\nTickets: 
+ https://tickets.acmi.net.au/0/60529
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/matinees/dreams/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Batang West Side
+DTSTART:20260214T133000
+DTEND:20260214T153000
+UID:7e93b7b654f2045424eab8c6318646c57b5dbbf4@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-lav-diaz/batang-west
+ -side/\n\nTickets: http://tickets.acmi.net.au/0/60733
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-lav-diaz/batang-west-side/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2046
+DTSTART:20260214T153000
+DTEND:20260214T173000
+UID:5c3d7fc292e8d11999da286e31f3e3ac8b3e38c3@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ 2046/\n\nTickets: https://tickets.acmi.net.au/0/60553
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/2046/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Picnic at Hanging Rock
+DTSTART:20260214T183000
+DTEND:20260214T203000
+UID:c6f2ba950ad7e1ae6f1bea6b5a8c771bf690cb9c@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/picnic-hanging-rock/\n\nTicke
+ ts: http://tickets.acmi.net.au/0/60843
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/picnic-hanging-rock/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express
+DTSTART:20260214T193000
+DTEND:20260214T213000
+UID:818fff8b71e881c8034a79ff5008d6162a99ec7b@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ chungking-express/\n\nTickets: https://tickets.acmi.net.au/0/60541
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/chungkin
+ g-express/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dreams
+DTSTART:20260215T110000
+DTEND:20260215T130000
+UID:e9b654e9dfdd27525133e5f3fbd694d8eda4f2ac@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/matinees/dreams/\n\nTickets: 
+ https://tickets.acmi.net.au/0/60530
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/matinees/dreams/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Return Home
+DTSTART:20260215T130000
+DTEND:20260215T150000
+UID:f7b1234602b2d2a069b6fb77d7d0f8e4b0e586af@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/return-home/\n\nTickets: http
+ s://tickets.acmi.net.au/0/61137
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/return-home/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Three Summers
+DTSTART:20260215T140000
+DTEND:20260215T160000
+UID:590c55464afde60136dde8e0b774d29e531165bd@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ three-summers/\n\nTickets: https://tickets.acmi.net.au/0/60645
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/three-su
+ mmers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy Together
+DTSTART:20260215T161500
+DTEND:20260215T181500
+UID:61ad0d02814164e1972007c704dea87cf8dafd02@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ happy-together/\n\nTickets: https://tickets.acmi.net.au/0/61131
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/happy-to
+ gether/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lust\, Caution
+DTSTART:20260216T180000
+DTEND:20260216T200000
+UID:ac90b89025934671ece83bdbeac4d7178aa61c1e@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ lust-caution/\n\nTickets: https://tickets.acmi.net.au/0/61026
+LOCATION:Cinema 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/lust-cau
+ tion/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Unto Waste
+DTSTART:20260216T183000
+DTEND:20260216T203000
+UID:ef7d06ef4b593246faac18cd480c8253805cc3c1@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ love-unto-waste/\n\nTickets: https://tickets.acmi.net.au/0/60547
+LOCATION:Cinema 1
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/love-unt
+ o-waste/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A City of Sadness
+DTSTART:20260217T183000
+DTEND:20260217T203000
+UID:20ad5ff08016ba6b6807cdd185d87446e1b6017b@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ city-sadness/\n\nTickets: http://tickets.acmi.net.au/0/61179
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/city-sad
+ ness/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Mood for Love
+DTSTART:20260218T183000
+DTEND:20260218T203000
+UID:7615677a9d20848ff56c9af61380ec73950558dc@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ mood-for-love/\n\nTickets: https://tickets.acmi.net.au/0/61163
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/mood-for
+ -love/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanda
+DTSTART:20260218T190000
+DTEND:20260218T210000
+UID:48c89c2b9499986fa511738f1cf3538e2fcd256c@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/melbourne-cinematheque/the-ea
+ rly-1970s-road-movie-as-the-quintessential-new-hollywood-genre/wanda/\n\nT
+ ickets: https://www.acmi.net.au/whats-on/melbourne-cinematheque/#membershi
+ p
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/melbourne-cinematheque/the-early-1970
+ s-road-movie-as-the-quintessential-new-hollywood-genre/wanda/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Five Easy Pieces
+DTSTART:20260218T205500
+DTEND:20260218T225500
+UID:f882c2c965f84a93789cf2a91140b3ed20e8b44d@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/melbourne-cinematheque/the-ea
+ rly-1970s-road-movie-as-the-quintessential-new-hollywood-genre/five-easy-p
+ ieces/\n\nTickets: https://www.acmi.net.au/whats-on/melbourne-cinematheque
+ /#membership
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/melbourne-cinematheque/the-early-1970
+ s-road-movie-as-the-quintessential-new-hollywood-genre/five-easy-pieces/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gore Street\, Fitzroy
+DTSTART:20260219T180000
+DTEND:20260219T200000
+UID:9f5141596ff1bd6e71a971d25b1bc666eb2d8059@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/new-voices-australian-in-cine
+ mas/gore-street-fitzroy/\n\nTickets: https://tickets.acmi.net.au/0/60881
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/new-voices-australian-in-cinemas/gore
+ -street-fitzroy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pasa Faho
+DTSTART:20260219T190000
+DTEND:20260219T210000
+UID:dc132ad2de1b558f4d6614b3a9653d9373eb6267@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/new-voices-australian-in-cine
+ mas/pasa-faho/\n\nTickets: https://tickets.acmi.net.au/0/60890
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/new-voices-australian-in-cinemas/pasa
+ -faho/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love
+DTSTART:20260220T133000
+DTEND:20260220T153000
+UID:4a071d59756a9323a4722aaae6276935e20b73dc@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/matinees/love/\n\nTickets: ht
+ tp://tickets.acmi.net.au/0/60532
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/matinees/love/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spare Time + Q&A
+DTSTART:20260220T183000
+DTEND:20260220T203000
+UID:a0c3fe15a0afee4cf409289f36a64466a6ddf47c@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/new-voices-australian-in-cine
+ mas/spare-time/\n\nTickets: http://tickets.acmi.net.au/0/60883
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/new-voices-australian-in-cinemas/spar
+ e-time/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love
+DTSTART:20260221T110000
+DTEND:20260221T130000
+UID:27f38b87ae3428364507baf92eff6d209e624e8d@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/matinees/love/\n\nTickets: ht
+ tp://tickets.acmi.net.au/0/60533
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/matinees/love/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fwends + Q&A
+DTSTART:20260221T140000
+DTEND:20260221T160000
+UID:855d2c049df3b3f5ad47ea1f490a15ff302bc8a6@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/new-voices-australian-in-cine
+ mas/fwends/\n\nTickets: https://tickets.acmi.net.au/0/60888
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/new-voices-australian-in-cinemas/fwen
+ ds/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love
+DTSTART:20260222T110000
+DTEND:20260222T130000
+UID:887df3a0404cd461e9f0a9b9127e24b88a5065b8@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/matinees/love/\n\nTickets: ht
+ tp://tickets.acmi.net.au/0/60534
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/matinees/love/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ART+FILM: Rebecca Lamarche-Vadel
+DTSTART:20260222T140000
+DTEND:20260222T160000
+UID:1b7e87a87da212fa09688a89449499ccb479e7cb@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/artfilm/art-film-rebecca-lama
+ rche-vadel/\n\nTickets: https://tickets.acmi.net.au/0/60855
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/artfilm/art-film-rebecca-lamarche-vad
+ el/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Westgate
+DTSTART:20260222T143000
+DTEND:20260222T163000
+UID:34d944eb2f4835f503924469f8b1d688fbf06479@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/new-voices-australian-in-cine
+ mas/westgate/\n\nTickets: https://tickets.acmi.net.au/0/60885
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/new-voices-australian-in-cinemas/west
+ gate/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express
+DTSTART:20260223T183000
+DTEND:20260223T203000
+UID:4012ee47dda1015fdf76c3f336ce37bea71a42f5@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ chungking-express/\n\nTickets: https://tickets.acmi.net.au/0/61165
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/chungkin
+ g-express/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy Together
+DTSTART:20260224T183000
+DTEND:20260224T203000
+UID:950ff89a0f80bf5082cf1290ed8ec8c535872093@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ happy-together/\n\nTickets: https://tickets.acmi.net.au/0/61167
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/happy-to
+ gether/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trade Secret
+DTSTART:20260224T190000
+DTEND:20260224T210000
+UID:48bdbd8daf0d926558fc3923235e198664d14f5f@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/trade-secret/
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/trade-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les amants du Pont-Neuf
+DTSTART:20260225T190000
+DTEND:20260225T210000
+UID:d429bf0c64ee2a0691847572d2aec1b19c6d1b7f@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/melbourne-cinematheque/tales-
+ of-modern-love-leos-carax-rebirthing-cinema/les-amants-du-pont-neuf/\n\nTi
+ ckets: https://www.acmi.net.au/whats-on/melbourne-cinematheque/#membership
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/melbourne-cinematheque/tales-of-moder
+ n-love-leos-carax-rebirthing-cinema/les-amants-du-pont-neuf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2046
+DTSTART:20260225T193000
+DTEND:20260225T213000
+UID:ff04701d704e424a50a621f555100c688f9ab2f1@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ 2046/\n\nTickets: https://tickets.acmi.net.au/0/61169
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/2046/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mauvais Sang
+DTSTART:20260225T212500
+DTEND:20260225T232500
+UID:debe8db4a5859b6bdb1b64dcb27d0e9e95c5a667@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/melbourne-cinematheque/tales-
+ of-modern-love-leos-carax-rebirthing-cinema/mauvais-sang/\n\nTickets: http
+ s://www.acmi.net.au/whats-on/melbourne-cinematheque/#membership
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/melbourne-cinematheque/tales-of-moder
+ n-love-leos-carax-rebirthing-cinema/mauvais-sang/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hero
+DTSTART:20260226T190000
+DTEND:20260226T210000
+UID:5ffeaffc22660fa07364c920d5fafffef795e414@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ hero/\n\nTickets: http://tickets.acmi.net.au/0/61189
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/hero/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Color of Pomegranates
+DTSTART:20260227T133000
+DTEND:20260227T153000
+UID:3d090584efcc1d248d96faa6f156691f4324329c@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/matinees/the-color-of-pomegra
+ nates/\n\nTickets: https://tickets.acmi.net.au/0/61055
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/matinees/the-color-of-pomegranates/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A City of Sadness
+DTSTART:20260227T183000
+DTEND:20260227T203000
+UID:65d1389ada07ceac4a9e510cd6244d613fc264f4@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ city-sadness/\n\nTickets: https://tickets.acmi.net.au/0/61180
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/city-sad
+ ness/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Color of Pomegranates
+DTSTART:20260228T110000
+DTEND:20260228T130000
+UID:91b77f65a92584eb5dcad090b70eacceaa80e14e@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/matinees/the-color-of-pomegra
+ nates/\n\nTickets: https://tickets.acmi.net.au/0/61056
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/matinees/the-color-of-pomegranates/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phantosmia
+DTSTART:20260228T133000
+DTEND:20260228T153000
+UID:02b461ee4f67d6c62cc5026cffc2b67581daa145@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-lav-diaz/phantosmia/
+ \n\nTickets: https://tickets.acmi.net.au/0/60735
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-lav-diaz/phantosmia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Mood for Love
+DTSTART:20260228T160000
+DTEND:20260228T180000
+UID:46b4806aa23661fbf789e2dddcaea1e8831ec7ad@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ mood-for-love/\n\nTickets: https://tickets.acmi.net.au/0/61164
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/mood-for
+ -love/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infernal Affairs
+DTSTART:20260228T183000
+DTEND:20260228T203000
+UID:b97f5cbc294dec56af9a681a79d800b97ffa5aff@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ infernal-affairs/\n\nTickets: https://tickets.acmi.net.au/0/61170
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/infernal
+ -affairs/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Color of Pomegranates
+DTSTART:20260301T110000
+DTEND:20260301T130000
+UID:4d091799c6986fff9fc5be523e64c46be6a48efe@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/matinees/the-color-of-pomegra
+ nates/\n\nTickets: https://tickets.acmi.net.au/0/61057
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/matinees/the-color-of-pomegranates/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express
+DTSTART:20260301T140000
+DTEND:20260301T160000
+UID:28f91ef897f0a9bf47d557b4e689e0910a2a93f0@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ chungking-express/\n\nTickets: https://tickets.acmi.net.au/0/61166
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/chungkin
+ g-express/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy Together
+DTSTART:20260302T183000
+DTEND:20260302T203000
+UID:b8fed9e37321f10164be864a615e6b75f97eebf8@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ happy-together/\n\nTickets: https://tickets.acmi.net.au/0/61168
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/happy-to
+ gether/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lust\, Caution
+DTSTART:20260303T183000
+DTEND:20260303T203000
+UID:4237acc67eae2f255e17bcb971d2a9458b2609ec@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/
+ lust-caution/\n\nTickets: https://tickets.acmi.net.au/0/61171
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-tony-leung-chiu-wai/lust-cau
+ tion/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deepfaking Sam Altman
+DTSTART:20260303T190000
+DTEND:20260303T210000
+UID:96cb6135426963263826c46d761d330ffae81510@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/documented-2026/deepfaking-sa
+ m-altman/\n\nTickets: https://tickets.acmi.net.au/0/61249
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/documented-2026/deepfaking-sam-altman
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hold True: Short Films curated by POV
+DTSTART:20260304T154500
+DTEND:20260304T174500
+UID:2dab6d1603b01e99219b51ba09d35a313f5da6a0@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/documented-2026/hold-true-sho
+ rt-films-curated-by-pov/\n\nTickets: https://tickets.acmi.net.au/0/61247
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/documented-2026/hold-true-short-films
+ -curated-by-pov/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cutting Through Rocks
+DTSTART:20260304T183000
+DTEND:20260304T203000
+UID:f6b163aa66515048f15189a91b0135132669bd88@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/documented-2026/cutting-throu
+ gh-rocks/\n\nTickets: https://tickets.acmi.net.au/0/61276
+LOCATION:Cinema 2\, Level 2
+URL:https://www.acmi.net.au/whats-on/documented-2026/cutting-through-rocks
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's Not Me
+DTSTART:20260304T190000
+DTEND:20260304T210000
+UID:3ef76f9c0b7ecc7f483b15a35627ee7a5c77e33e@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/melbourne-cinematheque/tales-
+ of-modern-love-leos-carax-rebirthing-cinema/its-not-me/\n\nTickets: https:
+ //www.acmi.net.au/whats-on/melbourne-cinematheque/#membership
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/melbourne-cinematheque/tales-of-moder
+ n-love-leos-carax-rebirthing-cinema/its-not-me/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pierre ou les ambiguïtés
+DTSTART:20260304T195500
+DTEND:20260304T215500
+UID:c743517aa4761c28a3672a702609e3dd3e3566f9@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/melbourne-cinematheque/tales-
+ of-modern-love-leos-carax-rebirthing-cinema/pierre-ou-les-ambiguts/\n\nTic
+ kets: https://www.acmi.net.au/whats-on/melbourne-cinematheque/#membership
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/melbourne-cinematheque/tales-of-moder
+ n-love-leos-carax-rebirthing-cinema/pierre-ou-les-ambiguts/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2000 Meters to Andriivka
+DTSTART:20260305T190000
+DTEND:20260305T210000
+UID:9bfc956e34d8a0b8a75487b1e395358f697a0b44@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/documented-2026/2000-meters-t
+ o-andriivka/
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/documented-2026/2000-meters-to-andrii
+ vka/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20260306T183000
+DTEND:20260306T203000
+UID:f19c7236a3eb7313ad4b62339d6476df3ccb633e@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-chloe-zhao/hamnet/\n
+ \nTickets: https://tickets.acmi.net.au/0/61032
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-chloe-zhao/hamnet/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rider
+DTSTART:20260307T160000
+DTEND:20260307T180000
+UID:2c59eb7052174e3ec765a22e6b2f7d681f992af9@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-chloe-zhao/the-rider
+ /\n\nTickets: https://tickets.acmi.net.au/0/61036
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-chloe-zhao/the-rider/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nomadland
+DTSTART:20260307T183000
+DTEND:20260307T203000
+UID:582cec9cb8b4e8d484e80a3cbda0a310411f9212@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/focus-on-chloe-zhao/nomadland
+ /\n\nTickets: https://tickets.acmi.net.au/0/61040
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/focus-on-chloe-zhao/nomadland/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love and Duty 戀愛與義務
+DTSTART:20260308T140000
+DTEND:20260308T160000
+UID:6883bc7a9cf6b113f8fe551c34bcd02d5f6baaa9@acmi-ical
+DESCRIPTION:https://www.acmi.net.au/whats-on/chinese-independent-film-foun
+ dation/love-and-duty/\n\nTickets: https://tickets.acmi.net.au/0/60654
+LOCATION:Cinema 1\, Level 2
+URL:https://www.acmi.net.au/whats-on/chinese-independent-film-foundation/l
+ ove-and-duty/
+END:VEVENT
+END:VCALENDAR
