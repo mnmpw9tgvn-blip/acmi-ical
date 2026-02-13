@@ -1,71 +1,33 @@
 import hashlib
-from datetime import timedelta
+from datetime import timedelta, datetime
 from urllib.parse import urljoin
 
 import requests
 from dateutil import parser
 from icalendar import Calendar, Event
 
-API_ROOT = "https://admin.acmi.net.au"
-API_URL = "https://admin.acmi.net.au/api/v2/calendar/?format=json&limit=200"
+API_URL = "https://admin.acmi.net.au/api/v2/calendar/?format=json&limit=500"
 ACMI_SITE = "https://www.acmi.net.au"
 
-# Film = 1, Film + Talk = 61 (from /api/v2/calendar/filters/)
+# Film = 1, Film + Talk = 61
 FILM_EVENT_TYPE_IDS = {1, 61}
 
-DEFAULT_DURATION_HOURS = 2
 
-
-def stable_uid(item: dict) -> str:
+def stable_uid(item):
     ev = item.get("event") or {}
     raw = f'{item.get("id")}::{ev.get("id")}::{item.get("start_datetime")}::{item.get("end_datetime")}'
-    h = hashlib.sha1(raw.encode("utf-8")).hexdigest()
-    return f"{h}@acmi-ical"
+    return hashlib.sha1(raw.encode("utf-8")).hexdigest() + "@acmi-ical"
 
 
-def is_film(item: dict) -> bool:
+def is_film(item):
     ev = item.get("event") or {}
     et = ev.get("event_type") or {}
     return et.get("id") in FILM_EVENT_TYPE_IDS
 
 
-def get_film_year(ev: dict):
-    """
-    Try common year fields ACMI might provide.
-    Returns an int year or None.
-    """
-    for key in ("year", "release_year", "production_year"):
-        y = ev.get(key)
-        if isinstance(y, int) and 1800 <= y <= 2100:
-            return y
-        if isinstance(y, str) and y.isdigit():
-            yi = int(y)
-            if 1800 <= yi <= 2100:
-                return yi
-    return None
-
-
-def fetch_all_items() -> list:
-    """
-    Follows pagination (the API often returns a 'next' URL).
-    """
-    url = API_URL
-    all_items = []
-
-    while url:
-        data = requests.get(url, timeout=60).json()
-        all_items.extend(data.get("items", []))
-        url = data.get("next")
-
-        # Some APIs return relative next URLs; make them absolute if needed
-        if url and url.startswith("/"):
-            url = urljoin(API_ROOT, url)
-
-    return all_items
-
-
 def main():
-    items = fetch_all_items()
+    data = requests.get(API_URL, timeout=60).json()
+    items = data.get("items", [])
 
     cal = Calendar()
     cal.add("prodid", "-//ACMI Films//acmi-ical//EN")
@@ -79,18 +41,20 @@ def main():
         if not is_film(item):
             continue
 
-        ev = item.get("event") or {}
-        base_title = ev.get("title") or "ACMI Film"
-        year = get_film_year(ev)
-        title = f"{base_title} ({year})" if year else base_title
-
         start = parser.isoparse(item["start_datetime"])
+
+        # skip past screenings
+        if start < datetime.now(start.tzinfo):
+            continue
 
         end_raw = item.get("end_datetime")
         if end_raw:
             end = parser.isoparse(end_raw)
         else:
-            end = start + timedelta(hours=DEFAULT_DURATION_HOURS)
+            end = start + timedelta(hours=2)
+
+        ev = item.get("event") or {}
+        title = ev.get("title") or "ACMI Film"
 
         venue = item.get("venue") or "ACMI, Fed Square"
 
@@ -98,18 +62,20 @@ def main():
         event_url = urljoin(ACMI_SITE, url_path.lstrip("/"))
 
         purchase_url = item.get("purchase_url") or ""
-        desc = event_url + (f"\n\nTickets: {purchase_url}" if purchase_url else "")
+        desc = event_url
+        if purchase_url:
+            desc += f"\nTickets: {purchase_url}"
 
-        ical_event = Event()
-        ical_event.add("uid", stable_uid(item))
-        ical_event.add("summary", title)
-        ical_event.add("dtstart", start)
-        ical_event.add("dtend", end)
-        ical_event.add("location", venue)
-        ical_event.add("url", event_url)
-        ical_event.add("description", desc)
+        e = Event()
+        e.add("uid", stable_uid(item))
+        e.add("summary", title)
+        e.add("dtstart", start)
+        e.add("dtend", end)
+        e.add("location", venue)
+        e.add("url", event_url)
+        e.add("description", desc)
 
-        cal.add_component(ical_event)
+        cal.add_component(e)
         kept += 1
 
     with open("acmi.ics", "wb") as f:
